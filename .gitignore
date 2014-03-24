@@ -1,0 +1,9 @@
+*.o
+*.x
+*.so
+*.a
+*~
+*.tmp
+*log
+.*.swp
+docs
